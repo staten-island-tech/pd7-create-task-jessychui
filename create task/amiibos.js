@@ -1,4 +1,4 @@
-const amiiboSeries = {
+let amiibos = {
   supermario: [
     "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00000000-00340102.png",
     "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00010000-00350102.png",
@@ -31,9 +31,9 @@ const amiiboSeries = {
     "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01830000-02420502.png",
     "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01840000-024d0502.png",
     "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01880000-02410502.png",
-    "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01900001-01710502.png",
     "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01920000-02470502.png", 
     "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01930000-02480502.png",
+    "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_018d0000-024c0502.png",
   ],
   metroid: [
     "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_05c00000-00060002.png", 
@@ -54,4 +54,4 @@ const amiiboSeries = {
   ],
 };
 
-export { amiibos };
+export {amiibos};
