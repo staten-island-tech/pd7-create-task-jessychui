@@ -1,4 +1,5 @@
 import "./style.css";
+import "./amiibos"
 
 const DOMSelectors = {
   mario: document.getElementById("mario"),
